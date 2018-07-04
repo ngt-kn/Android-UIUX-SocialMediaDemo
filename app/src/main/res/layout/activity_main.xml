@@ -64,15 +64,16 @@
             android:layout_weight="1">
 
             <ImageView
-                android:layout_width="30dp"
-                android:layout_height="30dp"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
                 android:src="@drawable/users"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Friends"
                 android:textColor="@color/colorPrimary"
-                android:textSize="18sp"
+                android:textSize="15sp"
+                android:layout_marginTop="5dp"
                 />
         </LinearLayout>
 
@@ -84,14 +85,15 @@
             android:layout_weight="1">
 
             <ImageView
-                android:layout_width="30dp"
-                android:layout_height="30dp"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
                 android:src="@drawable/wavinghand"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Hello"
-                android:textSize="18sp"
+                android:textSize="15sp"
+                android:layout_marginTop="5dp"
                 />
         </LinearLayout>
 
@@ -103,14 +105,15 @@
             android:layout_weight="1">
 
             <ImageView
-                android:layout_width="30dp"
-                android:layout_height="30dp"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
                 android:src="@drawable/ic_block_black_24dp"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Block"
-                android:textSize="18sp"
+                android:textSize="15sp"
+                android:layout_marginTop="5dp"
                 />
         </LinearLayout>
 
@@ -122,14 +125,15 @@
             android:layout_weight="1">
 
             <ImageView
-                android:layout_width="30dp"
-                android:layout_height="30dp"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
                 android:src="@drawable/ic_more_horiz_black_24dp"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="More"
-                android:textSize="18sp"
+                android:textSize="15sp"
+                android:layout_marginTop="5dp"
                 />
         </LinearLayout>
 
