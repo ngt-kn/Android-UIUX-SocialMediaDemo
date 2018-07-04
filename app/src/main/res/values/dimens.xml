@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="profile_image">100dp</dimen>
+    <dimen name="profile_image_mt">190dp</dimen>
+    <dimen name="profile_text_mt">20dp</dimen>
+    <dimen name="profile_text_size">20sp</dimen>
+    <dimen name="icon_size">25dp</dimen>
+    <dimen name="icon_text_size">15sp</dimen>
+</resources>
