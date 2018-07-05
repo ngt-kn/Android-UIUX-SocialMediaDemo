@@ -5,4 +5,6 @@
     <color name="colorAccent">#FF4081</color>
     <color name="black_color">#000</color>
     <color name="photo_background">#35c490</color>
+    <color name="friends_background_color">#f00</color>
+    <color name="post_bg_color">#ffffd500</color>
 </resources>
